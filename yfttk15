@@ -50,3 +50,12 @@ coverage.xml*
 .py,cover
 .hypothesis/
 .pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.loglocal_settings.py
+db.sqlite3
+db.sqlite3-journal
